@@ -1,0 +1,58 @@
+
+body{
+    margin: .1em
+}
+header.title{
+   background-color: blue;
+   border-style: solid;
+    border-color: black;
+    color: aliceblue;
+    margin-top: 0em;
+}
+
+.title-content{
+    text-align: center;
+    font-size: 50px;
+}
+.card-line{
+    height: 10px;
+    background-color: blue;
+}
+
+.cards{
+    display: flex;
+    margin: 15em;
+    margin-top: 0em;
+    margin-bottom: 5em;
+}
+
+.card{
+    margin: 5em
+}
+.card-large{
+    font-size: 20px;
+    margin-right: 0em;
+}
+
+.card-small{
+    height: 300px;
+    width: 250px;
+    
+}
+.card-small-title{
+    width: 200px;
+    font-size: 25px;
+    
+}
+.card-small-content{
+    width: 200px;
+}
+.card-img{
+    max-width: 10em
+}
+footer{
+    border-style: solid;
+    border-color: black;
+    background-color: blue;
+    min-height: 15em;
+}
